@@ -12,6 +12,8 @@ Below is a list of the materials I used for the project. It's not the only setup
   
   <h1>Schematic</h1>
   
+  I used the stacking headers to make a pair of Teensy 3.2s that will simultaniously respdond to button inputs. 
+  
 ![a schematic !](https://github.com/mc2880/twocomputers/blob/master/schematic.PNG)
 
   <h1>Finished Product</h1>
