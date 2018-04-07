@@ -16,6 +16,12 @@ Below is a list of the materials I used for the project. It's not the only setup
   
 ![a schematic !](https://github.com/mc2880/twocomputers/blob/master/schematic.PNG)
 
+
+<h1>Code</h1>
+
+[The Code I used can be found here](https://github.com/mc2880/twocomputers/blob/master/qlab_button_thingy.ino)
+
+
   <h1>Finished Product</h1>
   
   ![looky look](https://github.com/mc2880/twocomputers/blob/master/finished%20project%20-%20face.jpg)
